@@ -1,6 +1,7 @@
-body {
-    background-color: green;
+body  {
+    background-color: red !important;
 }
+
 .note {
     background-color: blue;
 }
