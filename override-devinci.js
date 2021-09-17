@@ -1,5 +1,9 @@
 var note = document.getElementsByClassName('badge')[0];
-note.classList.add('note');
 
 
-var body = document.getElementsByClassName('body')[0];
+var body = document.getElementsByTagName('body');
+body.classList.add('important');
+
+for(i=0;i<note.length;i++){
+    note.classList.add('note')
+}
