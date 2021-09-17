@@ -1,0 +1,1 @@
+var body = document.getElementsByClassName('body')[0];
