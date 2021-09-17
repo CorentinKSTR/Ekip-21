@@ -1,7 +1,7 @@
-.important  {
-    background-color: rgb(125, 210, 224) !important;
+.important .tools .btn {
+    border-radius: 20px;
 }
 
-.important .tools .btn {
-    border-radius: 10px;
+.important .btn-default{
+    border-radius: 20px;
 }
