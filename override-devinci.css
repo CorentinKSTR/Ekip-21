@@ -4,12 +4,13 @@
     padding: 10px;
 }
 
-.important .btn-default{
+.important .body .btn{
     border-radius: 20px;
 }
 
-.important .btn-success{
-    border-radius: 20px;
+.important td .btn{
+    display: flex;
+    justify-content: center;
 }
 
 .important .dd-item-alt .dd-content:hover{
@@ -22,7 +23,7 @@
 }
 
 .important thead{
-    background-color: #fbdaff;
+    background-color: #ffdadf;
 }
 
 .important th{
@@ -32,3 +33,4 @@
 .important td{
     border: 1px solid black;
 }
+
