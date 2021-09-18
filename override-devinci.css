@@ -1,7 +1,34 @@
+
 .important .tools .btn {
     border-radius: 20px;
+    padding: 10px;
 }
 
 .important .btn-default{
     border-radius: 20px;
+}
+
+.important .btn-success{
+    border-radius: 20px;
+}
+
+.important .dd-item-alt .dd-content:hover{
+    color: black;
+    cursor: initial;
+}
+
+.important table{
+    border: 1px solid black;
+}
+
+.important thead{
+    background-color: #fbdaff;
+}
+
+.important th{
+    border: 1px solid black;
+}
+
+.important td{
+    border: 1px solid black;
 }
