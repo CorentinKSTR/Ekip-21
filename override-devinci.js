@@ -1,8 +1,4 @@
-var note = document.getElementsByClassName('badge')[0];
-
-
 var body = document.getElementsByTagName('body')[0]
-
 
 var url = window.location.href
 console.log(url)
