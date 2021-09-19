@@ -1,63 +1,63 @@
 
-.classImp .tools .btn {
+.ficheImp .tools .btn {
     border-radius: 20px;
     padding: 10px;
 }
 
-.classImp .body .btn{
+.ficheImp .body .btn{
     border-radius: 20px;
 }
 
-.classImp .navbar-inner{
+.ficheImp .navbar-inner{
     background-color: #f07d00 !important;
     border-color: #f07d00 !important;
     border-bottom-color: #f07d00 !important;
 }
 
-.classImp .social-box header{
+.ficheImp .social-box header{
     background-color: #f07d00 !important;
     border-color: #f07d00 !important;
 }
 
-.classImp .social-box {
+.ficheImp .social-box {
     border-color: #f07d00 !important;
 }
 
-.classImp td .btn{
+.ficheImp td .btn{
     display: flex;
     justify-content: center;
 }
 
-.classImp .dd-item-alt .dd-content:hover{
+.ficheImp .dd-item-alt .dd-content:hover{
     color: black;
     cursor: initial;
 }
 
-.classImp table{
+.ficheImp table{
     border: 1px solid black;
 }
 
-.classImp thead{
+.ficheImp thead{
     background-color: #ffdadf;
 }
 
-.classImp th{
+.ficheImp th{
     border: 1px solid black;
 }
 
-.classImp td{
+.ficheImp td{
     border: 1px solid black;
 }
 
-.classImp .schoole_pastil{
+.ficheImp .schoole_pastil{
     display: none;
 }
 
-.classImp .breadcrumb{
+.ficheImp .breadcrumb{
     font-size: 20px;
 }
 
-.classImp .navbar-inner .divider-vertical{
+.ficheImp .navbar-inner .divider-vertical{
     border-left-color: white !important;
     border-right-color: white !important;
 }
