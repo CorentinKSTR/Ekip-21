@@ -1,63 +1,63 @@
 
-.important .tools .btn {
+.classImp .tools .btn {
     border-radius: 20px;
     padding: 10px;
 }
 
-.important .body .btn{
+.classImp .body .btn{
     border-radius: 20px;
 }
 
-.important .navbar-inner{
+.classImp .navbar-inner{
     background-color: #f07d00 !important;
     border-color: #f07d00 !important;
     border-bottom-color: #f07d00 !important;
 }
 
-.important .social-box header{
+.classImp .social-box header{
     background-color: #f07d00 !important;
     border-color: #f07d00 !important;
 }
 
-.important .social-box {
+.classImp .social-box {
     border-color: #f07d00 !important;
 }
 
-.important td .btn{
+.classImp td .btn{
     display: flex;
     justify-content: center;
 }
 
-.important .dd-item-alt .dd-content:hover{
+.classImp .dd-item-alt .dd-content:hover{
     color: black;
     cursor: initial;
 }
 
-.important table{
+.classImp table{
     border: 1px solid black;
 }
 
-.important thead{
+.classImp thead{
     background-color: #ffdadf;
 }
 
-.important th{
+.classImp th{
     border: 1px solid black;
 }
 
-.important td{
+.classImp td{
     border: 1px solid black;
 }
 
-.important .schoole_pastil{
+.classImp .schoole_pastil{
     display: none;
 }
 
-.important .breadcrumb{
+.classImp .breadcrumb{
     font-size: 20px;
 }
 
-.important .navbar-inner .divider-vertical{
+.classImp .navbar-inner .divider-vertical{
     border-left-color: white !important;
     border-right-color: white !important;
 }
