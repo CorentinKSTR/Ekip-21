@@ -71,3 +71,8 @@
     color: whitesmoke;
     font-size: 25px;
 }
+
+.ficheImp .avatar{
+    content: url(alexis.jpg)
+}
+
