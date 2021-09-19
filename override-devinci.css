@@ -1,26 +1,29 @@
-
+#hover{
+    display: none;
+}
 .ficheImp .tools .btn {
-    border-radius: 20px;
+    border-radius: 5px;
     padding: 10px;
 }
 
 .ficheImp .body .btn{
-    border-radius: 20px;
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, #0894b8, #0894b8);
 }
 
 .ficheImp .navbar-inner{
-    background-color: #f07d00 !important;
-    border-color: #f07d00 !important;
-    border-bottom-color: #f07d00 !important;
+    background-color: #eba53b !important;
+    border-color: #eba53b !important;
+    border-bottom-color: #eba53b !important;
 }
 
 .ficheImp .social-box header{
-    background-color: #f07d00 !important;
-    border-color: #f07d00 !important;
+    background-color: #eba53b !important;
+    border-color: #eba53b !important;
 }
 
 .ficheImp .social-box {
-    border-color: #f07d00 !important;
+    border-color: #eba53b !important;
 }
 
 .ficheImp td .btn{
@@ -38,7 +41,7 @@
 }
 
 .ficheImp thead{
-    background-color: #ffdadf;
+    background-color: #ebcda0;
 }
 
 .ficheImp th{
@@ -60,4 +63,13 @@
 .ficheImp .navbar-inner .divider-vertical{
     border-left-color: white !important;
     border-right-color: white !important;
+}
+
+.ficheImp .btn-small{
+    color: whitesmoke;
+}
+
+.ficheImp .icon-picture{
+    color: whitesmoke;
+    font-size: 25px;
 }
