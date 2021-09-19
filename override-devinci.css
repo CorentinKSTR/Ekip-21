@@ -3,7 +3,7 @@
 .notesImp  {
     background-color: #e0e0e0;
     font-family: 'Rubik', sans-serif !important;
-
+}
 .classImp .tools .btn {
     border-radius: 20px;
     padding: 10px;
@@ -19,6 +19,7 @@
 
 .notesImp .navbar-inner {
     background-color: #f07d00 !important;
+}
 .classImp .body .btn{
     border-radius: 20px;
 }
