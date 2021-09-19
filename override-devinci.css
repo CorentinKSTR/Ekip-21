@@ -7,6 +7,8 @@
 .ficheImp .body .btn{
     border-radius: 5px;
     background-image: linear-gradient(to bottom, #0894b8, #0894b8);
+    color: whitesmoke;
+
 }
 
 .ficheImp .navbar-inner{
@@ -35,7 +37,7 @@
 }
 
 .ficheImp table{
-    border: 1px solid black;
+    border: 1px solid rgb(119, 119, 119);
 }
 
 .ficheImp thead{
@@ -43,11 +45,11 @@
 }
 
 .ficheImp th{
-    border: 1px solid black;
+    border: 1px solid rgb(119, 119, 119);
 }
 
 .ficheImp td{
-    border: 1px solid black;
+    border: 1px solid rgb(119, 119, 119);
 }
 
 .ficheImp .schoole_pastil{
@@ -85,3 +87,4 @@
     width: 70%;
     float: right;
 }
+
