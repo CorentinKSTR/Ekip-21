@@ -11,4 +11,3 @@ if (url =="https://www.leonard-de-vinci.net/?my=marks"){
 if (url=="https://www.leonard-de-vinci.net/"){
     body.classList.add('ficheImp')
 }
-

@@ -6,6 +6,9 @@
 }
 .classImp .tools .btn {
     border-radius: 20px;
+}
+.ficheImp .tools .btn {
+    border-radius: 5px;
     padding: 10px;
 }
 .notesImp *{
@@ -22,6 +25,13 @@
 }
 .classImp .body .btn{
     border-radius: 20px;
+}
+
+.ficheImp .body .btn{
+    border-radius: 5px;
+    background-image: linear-gradient(to bottom, #0894b8, #0894b8);
+    color: whitesmoke;
+
 }
 
 .notesImp header {
@@ -92,51 +102,80 @@
     border-color: #f07d00 !important;
     border-bottom-color: #f07d00 !important;
 }
-
-.classImp .social-box header{
-    background-color: #f07d00 !important;
-    border-color: #f07d00 !important;
+.ficheImp .navbar-inner{
+    background-color: #eba53b !important;
+    border-color: #eba53b !important;
+    border-bottom-color: #eba53b !important;
 }
 
-.classImp .social-box {
-    border-color: #f07d00 !important;
+.ficheImp .social-box header{
+    background-color: #eba53b !important;
+    border-color: #eba53b !important;
 }
 
-.classImp td .btn{
+.ficheImp .social-box {
+    border-color: #eba53b !important;
+}
+
+.ficheImp td .btn{
     display: flex;
     justify-content: center;
 }
 
-.classImp .dd-item-alt .dd-content:hover{
+.ficheImp .dd-item-alt .dd-content:hover{
     color: black;
     cursor: initial;
 }
 
-.classImp table{
-    border: 1px solid black;
+.ficheImp table{
+    border: 1px solid rgb(119, 119, 119);
 }
 
-.classImp thead{
-    background-color: #ffdadf;
+.ficheImp thead{
+    background-color: #ebcda0;
 }
 
-.classImp th{
-    border: 1px solid black;
+.ficheImp th{
+    border: 1px solid rgb(119, 119, 119);
 }
 
-.classImp td{
-    border: 1px solid black;
+.ficheImp td{
+    border: 1px solid rgb(119, 119, 119);
 }
 
-.classImp .schoole_pastil{
+.ficheImp .schoole_pastil{
     display: none;
 }
 
-.classImp .breadcrumb{
+.ficheImp .breadcrumb{
     font-size: 20px;
 }
 
-.classImp .navbar-inner .divider-vertical{
+.ficheImp .navbar-inner .divider-vertical{
     border-left-color: white !important;
     border-right-color: white !important;
 }
+
+.ficheImp .btn-small{
+    color: whitesmoke;
+}
+
+.ficheImp .icon-picture{
+    color: whitesmoke;
+    font-size: 25px;
+}
+
+.ficheImp .avatar{
+    content: url(https://profcitron.fr/wp-content/uploads/2020/12/alexis.jpg);
+    size: 500%;
+}
+
+.ficheImp #student_photo{
+    width: 300%;
+}
+
+.ficheImp .social-orange{
+    width: 70%;
+    float: right;
+}
+
