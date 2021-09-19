@@ -8,6 +8,21 @@
     border-radius: 20px;
 }
 
+.important .navbar-inner{
+    background-color: #f07d00 !important;
+    border-color: #f07d00 !important;
+    border-bottom-color: #f07d00 !important;
+}
+
+.important .social-box header{
+    background-color: #f07d00 !important;
+    border-color: #f07d00 !important;
+}
+
+.important .social-box {
+    border-color: #f07d00 !important;
+}
+
 .important td .btn{
     display: flex;
     justify-content: center;
@@ -40,4 +55,9 @@
 
 .important .breadcrumb{
     font-size: 20px;
+}
+
+.important .navbar-inner .divider-vertical{
+    border-left-color: white !important;
+    border-right-color: white !important;
 }
