@@ -3,6 +3,10 @@
 .notesImp  {
     background-color: #e0e0e0;
     font-family: 'Rubik', sans-serif !important;
+
+.classImp .tools .btn {
+    border-radius: 20px;
+    padding: 10px;
 }
 .notesImp *{
     font-family: 'Rubik', sans-serif;
@@ -15,6 +19,8 @@
 
 .notesImp .navbar-inner {
     background-color: #f07d00 !important;
+.classImp .body .btn{
+    border-radius: 20px;
 }
 
 .notesImp header {
@@ -78,4 +84,58 @@
 }
 .notesImp .bonus:hover{
     background-color: #0399b8;
+}
+
+.classImp .navbar-inner{
+    background-color: #f07d00 !important;
+    border-color: #f07d00 !important;
+    border-bottom-color: #f07d00 !important;
+}
+
+.classImp .social-box header{
+    background-color: #f07d00 !important;
+    border-color: #f07d00 !important;
+}
+
+.classImp .social-box {
+    border-color: #f07d00 !important;
+}
+
+.classImp td .btn{
+    display: flex;
+    justify-content: center;
+}
+
+.classImp .dd-item-alt .dd-content:hover{
+    color: black;
+    cursor: initial;
+}
+
+.classImp table{
+    border: 1px solid black;
+}
+
+.classImp thead{
+    background-color: #ffdadf;
+}
+
+.classImp th{
+    border: 1px solid black;
+}
+
+.classImp td{
+    border: 1px solid black;
+}
+
+.classImp .schoole_pastil{
+    display: none;
+}
+
+.classImp .breadcrumb{
+    font-size: 20px;
+}
+
+.classImp .navbar-inner .divider-vertical{
+    border-left-color: white !important;
+    border-right-color: white !important;
 }
