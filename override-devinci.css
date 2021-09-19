@@ -73,6 +73,15 @@
 }
 
 .ficheImp .avatar{
-    content: url(alexis.jpg)
+    content: url(https://profcitron.fr/wp-content/uploads/2020/12/alexis.jpg);
+    size: 500%;
 }
 
+.ficheImp #student_photo{
+    width: 300%;
+}
+
+.ficheImp .social-orange{
+    width: 70%;
+    float: right;
+}
